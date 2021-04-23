@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/myprofile"
+        android:icon="@drawable/ic_company"
+        android:title="my profile"
+        />
+    <item
+        android:id="@+id/myemployee"
+        android:icon="@drawable/ic_akun"
+        android:title="my employe"
+        />
+    <item
+        android:id="@+id/register"
+        android:icon="@drawable/ic_regis"
+        android:title="register now"
+        />
+</menu>
